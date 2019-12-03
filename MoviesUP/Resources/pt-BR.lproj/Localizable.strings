@@ -7,8 +7,8 @@
 */
 
 //MOVIES GALLERY
-"UPCOMING" = "Proximos";
+"UPCOMING" = "Em Breve";
 "POPULAR" = "Populares";
 
-"UPCOMING_MOVIES" = "Proximos Filmes";
+"UPCOMING_MOVIES" = "Filmes em Breve";
 "POPULAR_MOVIES" = "Filmes Populares";
