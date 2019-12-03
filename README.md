@@ -10,12 +10,11 @@ O Aplicativo desenvolvido contém:
 - Arquitetura MVC-Networking
 - Swift 5
 - Auto layout portrait e landscape
-- Layout conforme o requisito, com algumas pequenas modificações.
-- Teste unitário de algumas funcionalidades(como não tinha muita lógica envolvida, não tinha muito o que fazer).
+- Teste unitário de algumas funcionalidades.
 - Cocoapods(Alamofire 5 - para chamadas de API/kingfisher - para download de imagens)
-- Utilize a The Movie Database para realizar as consultas 
--- TMDB (https://www.themoviedb.org)
--- API (https://www.themoviedb.org/documentation/api)
+- Utilizado a The Movie Database para realizar as consultas
+- TMDB (https://www.themoviedb.org)
+- API (https://www.themoviedb.org/documentation/api)
 
 ## Desenvolvimento
 
@@ -38,5 +37,6 @@ O Aplicativo desenvolvido contém:
 - contem swipe left para voltar para tela anterior
 
 ## Features - UPDATE... A idéia é sempre implementar novas coisas.
-- internacionalização para tradução(como não era requisito não foi implementado) - Implementado!!
+- internacionalização(faltam ajustes)
 - testes automatizados.
+- infinite scroll.
